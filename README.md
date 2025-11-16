@@ -1,4 +1,4 @@
-````markdown
+
 # 🧩 Community App Backend
 
 > ⚠️ 이 README는 **백엔드만 구현된 상태**를 기준으로 작성된 초안입니다.  
